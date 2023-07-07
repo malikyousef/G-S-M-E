@@ -9,4 +9,3 @@ The two omics-datasets (BRCA miRNA and mRNA gene  expression profiles) are given
 # Main workflow
 
 ![alt text](https://github.com/malikyousef/G-S-M-V/blob/main/Images/G-S-M-V_main_workflow.JPG?raw=true)
-![alt text](https://github.com/malikyousef/3Mint/blob/main/Images/GSM_approach_in_3Mint.PNG?raw=true)
