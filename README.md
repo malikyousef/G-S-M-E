@@ -38,5 +38,10 @@ library(tidyr)
 
 Significant Groups summarizes different characteristics of the significant groups. Frequency of the groups over  100 iterations are given under the column ‘Frequency of  Group’. The average scores and ranks of each group calculated  within the S component are given in the following two columns  of the table. # Associated Genes and Associated Genes  represent the number and set of unique target genes of each  group respectively. Iteration and rank information tracked via  MCCV are given as lists in the last two columns. 
 
+# Scoring the groups with prior biological knowledge
+![alt text](https://github.com/malikyousef/G-S-M-V/blob/main/Images/Scoring_the_groups.JPG?raw=true)
+
+V component incorporates prior biological knowledge to score the groups. This component integrated into the existing workflow utilizes enriched genes from various databases, such as KEGG and Reactome, to score the groups based on their functional significance in a biological context.
+
 
 
