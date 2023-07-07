@@ -21,6 +21,8 @@ The SetParameters node allows the users to change the parameters.
 * Number of iterations for Internal Rank (Default: 10)
 * Performance metric (Accuracy, Precision, Sensitivity, etc.) weight (Default for accuracy: 1.0)
 
+![alt text](https://github.com/malikyousef/G-S-M-V/blob/main/Images/G-S-M-V_approach.JPG?raw=true)
+
 
 # The Environment Settings 
 
