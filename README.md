@@ -14,9 +14,9 @@ The two omics-datasets (BRCA miRNA and mRNA gene  expression profiles) are given
 
 The SetParameters node allows the users to change the parameters.
 
-Positive Correlation Threshold (Default: 0.6)
-Negative Correlation Threshold (Default: -0.6)
-Number of iteration (Default: 100)
-Number of Group (Default: 10)
-Number of iterations for Internal Rank (Default: 10)
-Performance metric (Accuracy, Precision, Sensitivity, etc.) weight (Default for accuracy: 1.0)
+*Positive Correlation Threshold (Default: 0.6)
+*Negative Correlation Threshold (Default: -0.6)
+*Number of iteration (Default: 100)
+*Number of Group (Default: 10)
+*Number of iterations for Internal Rank (Default: 10)
+*Performance metric (Accuracy, Precision, Sensitivity, etc.) weight (Default for accuracy: 1.0)
