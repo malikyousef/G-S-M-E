@@ -32,8 +32,9 @@ library(tidyr)
 
 # Identification of Significant Groups
 
+![alt text](https://github.com/malikyousef/G-S-M-V/blob/main/Images/Significant group summary statistics.JPG?raw=true)
 
-
+Significant Groups summarizes different characteristics of  the 10 most significant groups. Frequency of the groups over  100 iterations are given under the column ‘Frequency of  Group’. The average scores and ranks of each group calculated  within the S component are given in the following two columns  of the table. # Associated Genes and Associated Genes  represent the number and set of unique target genes of each  group respectively. Iteration and rank information tracked via  MCCV are given as lists in the last two columns. 
 
 
 
