@@ -20,3 +20,14 @@ The SetParameters node allows the users to change the parameters.
 * Number of Group (Default: 10)
 * Number of iterations for Internal Rank (Default: 10)
 * Performance metric (Accuracy, Precision, Sensitivity, etc.) weight (Default for accuracy: 1.0)
+
+
+# The Environment Settings 
+
+After installing KNIME Analytics platform, G-S-M-V workflow is downloaded and imported into the KNIME. The workflow contains R scripts therefore the following commands should be followed to prevent errors. Before initiation of the workflow process in KNIME, R / RStudio is required to be run with following commands:
+
+library(Rserve);
+Rserve(args = "--vanilla")
+library(tidyr)
+
+
