@@ -1,6 +1,6 @@
-# G-S-M-V
+# G-S-M-E
 
-G-S-M V tool incorporates several PBK databases into multi-omics  data analysis by utilizing supervised ML and statistical methods. The first objective of the tool is to integrate multi omics datasets utilizing scoring and ranking information over  the iterations. Our study aims to track the scores of each group across multiple iterations so that score vectors with a length of 100 are generated for the groups. These score vectors are used to identify hidden patterns among the groups.
+G-S-M-E tool incorporates several PBK databases into multi-omics  data analysis by utilizing supervised ML and statistical methods. The first objective of the tool is to integrate multi omics datasets utilizing scoring and ranking information over  the iterations. Our study aims to track the scores of each group across multiple iterations so that score vectors with a length of 100 are generated for the groups. These score vectors are used to identify hidden patterns among the groups.
 
 # Data Preparation
 
@@ -41,7 +41,7 @@ Significant Groups summarizes different characteristics of the significant group
 # Scoring the groups with prior biological knowledge
 ![alt text](https://github.com/malikyousef/G-S-M-V/blob/main/Images/Scoring_the_groups.JPG?raw=true)
 
-V component incorporates prior biological knowledge to score the groups. This component integrated into the existing workflow utilizes enriched genes from various databases, such as KEGG and Reactome, to score the groups based on their functional significance in a biological context.
+E component incorporates prior biological knowledge to score the groups. This component integrated into the existing workflow utilizes enriched genes from various databases, such as KEGG and Reactome, to score the groups based on their functional significance in a biological context.
 
 
 
